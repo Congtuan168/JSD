@@ -119,7 +119,16 @@ public abstract class Tanks extends TankFunction {
 
 
     //ToString method to print out the Tanks information
-    public void ToString() {
+    public String toString() {
+
+        return "Player Tank: " + this.getTankName()
+                + ", Point: " + this.getTankPoints()
+                + ", Health: " + this.getTankHealth()
+                + ", Movement: " + this.getTankMovement()
+                + ", Bullet: " + this.getTankBullet()
+                + ", Description: " + this.getTankDescription()
+                + ", Position: " + this.getPosition()
+                + ", Direction: " + this.getDirections();
     }
 
     //action: Move()

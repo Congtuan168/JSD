@@ -9,7 +9,7 @@ public class Grenade extends PowerUp {
 
     @Override
     public void activatePowerUp() {
-        System.out.println("Grenade activated: " + getEffectPowerUp() + " at position: " + this.getPosition());
+        System.out.println("Grenade activated: " + getEffectPowerUp() + " at position: " + getPosition());
         System.out.println("+500 points");
     }
 }
