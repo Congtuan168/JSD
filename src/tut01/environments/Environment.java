@@ -1,11 +1,12 @@
 package tut01.environments;
 
 import tut01.Point2D;
+import tut04.tanks.annotations.Important;
 
 public abstract class Environment {
     private String environmentName;
     private String environmentDescription;
-
+    @Important
     public int getEnvironmentHealth() {
         return environmentHealth;
     }
