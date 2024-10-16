@@ -16,7 +16,7 @@ public class multiple_sorting implements Runnable {
     public void run() {
         int[] arr = createShuffleArray();
         long startTime = System.currentTimeMillis();
-//        sortAlgorithm.sort(arr);
+        sortAlgorithm.sort(arr);
         long endTime = System.currentTimeMillis();
         long duration = endTime - startTime;
 
