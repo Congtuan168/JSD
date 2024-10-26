@@ -1,0 +1,70 @@
+1. Approximately what percentage of the world’s gross product is spent on
+projects?
+A. 10 percent
+B. 25 percent
+C. 50 percent
+D. 75 percent
+Answer B
+2. Which of the following is not a potential advantage of using good project
+management?
+A. Shorter development times
+B. Higher worker morale
+C. Lower cost of capital
+D. Higher profit margins
+Answer C
+3. A ________ is a temporary endeavor undertaken to create a unique product,
+service, or result.
+A. program
+B. process
+C. project
+D. portfolio
+Answer C
+4. Which of the following is not an attribute of a project?
+A. projects are unique
+B. projects are developed using progressive elaboration
+C. projects have a primary customer or sponsor
+D. projects involve little uncertainty
+Answer D
+5. Which of the following is not part of the triple constraint of project
+management?
+A. meeting scope goals
+B. meeting time goals
+C. meeting communications goals
+D. meeting cost goals
+Answer C
+6. ______ is the application of knowledge, skills, tools, and techniques to project
+activities to meet project requirements.
+A. Project management
+B. Program management
+C. Project portfolio management
+D. Requirements management
+Answer A
+7. Project portfolio management addresses ______ goals of an organization, while
+project management addresses _______ goals.
+A. strategic, tactical
+B. tactical, strategic
+C. internal, external
+D. external, internal
+Answer A
+8. Several application development projects done for the same functional group
+might best be managed as part of a _______
+A. portfolio
+B. program
+C. investment
+D. collaborative
+Answer B
+9. Which of the following is not true?
+A. Most American companies have a project management office.
+B. You can earn an advanced degree in project management from hundreds of
+colleges and universities.
+C. Employers are looking for project management skills in new graduates.
+D. IT hiring managers reported that project management certification did not
+affect starting pay.
+Answer D
+10. What is the name of one of the popular certifications provided by the Project
+Management Institute?
+A. Certified Project Manager (CPM)
+B. Project Management Professional (PMP)
+C. Project Management Expert (PME)
+D. Project Management Mentor (PMM)
+Answer B
